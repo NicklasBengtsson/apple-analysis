@@ -1,0 +1,111 @@
+{
+    "balance_sheet_and_cash_flow_analysis": [
+        {
+            "\u00c5r": 2020,
+            "Soliditet (%)": 20.173331522007608,
+            "Skulds\u00e4ttningsgrad": 3.957039440456695,
+            "Kassalikviditet": 1.325072111735236,
+            "R\u00f6relsekapital (MUSD)": 38321.0,
+            "Net Debt / Equity": 1.2896126356387456,
+            "Investeringar / Tillg\u00e5ngar (%)": 47.48987304253322,
+            "ROE (%)": 87.86635853012748,
+            "ROA (%)": 17.72557180259843,
+            "FCF-marginal (%)": 90.9400798274537,
+            "CapEx / OCF (%)": -9.059920172546297
+        },
+        {
+            "\u00c5r": 2021,
+            "Soliditet (%)": 17.974256556942695,
+            "Skulds\u00e4ttningsgrad": 4.563512442542399,
+            "Kassalikviditet": 1.0221149018576519,
+            "R\u00f6relsekapital (MUSD)": 9355.0,
+            "Net Debt / Equity": 1.6101125376446346,
+            "Investeringar / Tillg\u00e5ngar (%)": 44.32339416869419,
+            "ROE (%)": 150.07132667617688,
+            "ROA (%)": 26.974205275183614,
+            "FCF-marginal (%)": 89.34523923950864,
+            "CapEx / OCF (%)": -10.65476076049136
+        },
+        {
+            "\u00c5r": 2022,
+            "Soliditet (%)": 14.364644016385311,
+            "Skulds\u00e4ttningsgrad": 5.961536943479634,
+            "Kassalikviditet": 0.8472353911496149,
+            "R\u00f6relsekapital (MUSD)": -18577.0,
+            "Net Debt / Equity": 2.147813388064414,
+            "Investeringar / Tillg\u00e5ngar (%)": 41.23626879845786,
+            "ROE (%)": 196.95887275023682,
+            "ROA (%)": 28.292440929256852,
+            "FCF-marginal (%)": 91.23380078754984,
+            "CapEx / OCF (%)": -8.766199212450164
+        },
+        {
+            "\u00c5r": 2023,
+            "Soliditet (%)": 17.625920705195654,
+            "Skulds\u00e4ttningsgrad": 4.673462491552152,
+            "Kassalikviditet": 0.9444421504665951,
+            "R\u00f6relsekapital (MUSD)": -1742.0,
+            "Net Debt / Equity": 1.512003990602774,
+            "Investeringar / Tillg\u00e5ngar (%)": 37.4759985592045,
+            "ROE (%)": 156.07601454639075,
+            "ROA (%)": 27.509834563776476,
+            "FCF-marginal (%)": 90.08621079579892,
+            "CapEx / OCF (%)": -9.91378920420108
+        },
+        {
+            "\u00c5r": 2024,
+            "Soliditet (%)": 15.603594717518767,
+            "Skulds\u00e4ttningsgrad": 5.408779631255487,
+            "Kassalikviditet": 0.8260068483831466,
+            "R\u00f6relsekapital (MUSD)": -23405.0,
+            "Net Debt / Equity": 1.564811237928007,
+            "Investeringar / Tillg\u00e5ngar (%)": 34.71614883007288,
+            "ROE (%)": 164.59350307287096,
+            "ROA (%)": 25.682503150857585,
+            "FCF-marginal (%)": 92.0112638895936,
+            "CapEx / OCF (%)": -7.988736110406414
+        }
+    ],
+    "income_statement_analysis": [
+        {
+            "\u00c5r": 2020,
+            "Oms\u00e4ttning (USD)": 274515000000,
+            "Bruttomarginal (%)": 38.23324772781086,
+            "R\u00f6relsemarginal (%)": 24.147314354406863,
+            "Nettomarginal (%)": 20.913611278072235,
+            "EPS (USD)": 3.31
+        },
+        {
+            "\u00c5r": 2021,
+            "Oms\u00e4ttning (USD)": 365817000000,
+            "Bruttomarginal (%)": 41.77935962516778,
+            "R\u00f6relsemarginal (%)": 29.782377527561593,
+            "Nettomarginal (%)": 25.88179335569424,
+            "EPS (USD)": 5.67
+        },
+        {
+            "\u00c5r": 2022,
+            "Oms\u00e4ttning (USD)": 394328000000,
+            "Bruttomarginal (%)": 43.30963056136009,
+            "R\u00f6relsemarginal (%)": 30.288744395528592,
+            "Nettomarginal (%)": 25.309640705199733,
+            "EPS (USD)": 6.15
+        },
+        {
+            "\u00c5r": 2023,
+            "Oms\u00e4ttning (USD)": 383285000000,
+            "Bruttomarginal (%)": 44.13112957720756,
+            "R\u00f6relsemarginal (%)": 29.821412265024723,
+            "Nettomarginal (%)": 25.30623426432028,
+            "EPS (USD)": 6.16
+        },
+        {
+            "\u00c5r": 2024,
+            "Oms\u00e4ttning (USD)": 391035000000,
+            "Bruttomarginal (%)": 46.206349815233935,
+            "R\u00f6relsemarginal (%)": 31.510222870075566,
+            "Nettomarginal (%)": 23.971255769943866,
+            "EPS (USD)": 6.11
+        }
+    ]
+}
